@@ -4,6 +4,8 @@
 	id = "felinid"
 	limbs_id = "human"
 
+	speedmod = -0.1
+
 	mutant_bodyparts = list("mam_tail" = "Cat", "mam_ears" = "Cat", "deco_wings" = "None")
 
 	mutantears = /obj/item/organ/ears/cat
