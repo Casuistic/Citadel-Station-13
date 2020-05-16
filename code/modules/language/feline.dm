@@ -7,14 +7,14 @@
 	exclaim_verb = "yowls"
 	whisper_verb = "chirps"
 
-    default_priority = 90 // 100 is default for common
+	default_priority = 90 // 100 is default for common
 	key = "F"
 
 	icon_state = "feline"
 
 	flags = TONGUELESS_SPEECH
 
-	syllables = list(
+/datum/language/feline/syllables = list(
 	"mow", "mar", "mer", "muh", "mew", "mur", "mie", "mph",
 	"cha", "chy", "choh", "char", "chur", "caou", "cou", "cur", "cee",
 	"bah", "bha", "bhe", "broh", "bee", "bouh", "boo", "bop", "birr", "borr", "burr",
